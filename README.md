@@ -8,6 +8,8 @@ To be to be ten made to be.
 #include<stdio.h>
 
 int main ( void ) {
+  printf("hello, world");
+  return 1;
 }
 ```
 
