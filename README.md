@@ -4,6 +4,8 @@ I'm newbie GitHub.
 
 To be to be ten made to be.
 
+- fix B
+
 ## feature-A
 
 This is feature-A.
