@@ -9,7 +9,7 @@ To be to be ten made to be.
 
 int main ( void ) {
   printf("hello, world");
-  return 1;
+  return 0;
 }
 ```
 
